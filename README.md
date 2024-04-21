@@ -7,4 +7,4 @@
 <br />
 <br />
 
-Pada kali ini, kelompok kami dengan bantuan beberapa tools <i>AI> membuat tampilan trigonometri, dengan menggunakan library matplotlib dan aquarel pada python.
+Pada kali ini, kelompok kami dengan bantuan beberapa tools <i>AI</i> membuat tampilan trigonometri, dengan menggunakan library matplotlib dan aquarel pada python.
