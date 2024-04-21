@@ -1,4 +1,3 @@
-# Tugas-Besar-1-Struktur-Data
 <div align="center">
     <h1>Implementasi Trigonometri</h1>
     <h3>Tugas Besar 1 Struktur Data</h3>
